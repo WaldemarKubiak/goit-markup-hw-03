@@ -17,10 +17,16 @@ body {
   font-family: "Roboto", sans-serif;
   color: var(--text-primary-color);
   background-color: var(--background-primary-color);
+  /* background-color: red; */ /* testing */
+  /* margin: 0;
+  padding: 0; */
+  width: 1600px;
 }
 
 /* Headline container */
-
+/* .header {
+  background-color: yellowgreen;
+} */ /* testing */
 .logo-blue {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
