@@ -23,6 +23,15 @@ body {
   width: 1600px;
 }
 
+h1,
+h2,
+h3,
+h4,
+ul,
+p {
+  margin: 0;
+}
+
 /* Headline container */
 /* .header {
   background-color: yellowgreen;
