@@ -232,7 +232,7 @@ p {
   /* width: 0 100px 0 100px; */
 }
 
-.bcg {
+.main-header-bcg {
   background-color: var(--background-secondary-color);
   display: block;
 }
